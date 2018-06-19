@@ -1,11 +1,12 @@
-#Docker on Windows - Visual Code over Xming
-
-----
-keywords: Docker, Dockerfile, Docker Hub, linux, Xming, X11 server
-----
+# Docker on Windows - Visual Code over Xming
 
 
-##Description
+#### keywords:
+Docker, Dockerfile, Docker Hub, linux, Xming, X11 server
+
+
+
+### Description
 Dockerfile to generate a Docker image based on Debian, to run Visual Code. Then, use Xming, a Windows X11 server, to run an instance of Visual Code running from a Docker container. 
 
 
